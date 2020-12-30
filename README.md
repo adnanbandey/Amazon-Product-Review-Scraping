@@ -1,4 +1,4 @@
-# Amazon-Product-Scraping
+# Amazon-Product-Review-Scraping
 This will help you in scraping products from Amazon.in website along their reviews if you provide the list of urls of the reviews of products you want to scrape.
 Following are the things you'll have in the final output file. 
 -Product name <br />
